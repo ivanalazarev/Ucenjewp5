@@ -1,3 +1,5 @@
+use edunovawp5;
+
 create table Restoran(
 idrestoran int not null primary key identity(1,1),
 sifra numeric not null,
